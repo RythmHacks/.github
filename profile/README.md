@@ -1,9 +1,6 @@
-
-# 
-
 <div align='center'>
   <a href='https://rythmhacks.ca/'>
-    <img src='https://media-exp1.licdn.com/dms/image/C5622AQFiHT4eqzdXWw/feedshare-shrink_800/0/1669828621067?e=1672876800&v=beta&t=6yxiybXBsN2CdTWKrVFcrVHWQyEQBGQ1mlzrFddnKyw'></img>
+    <img src='https://www.rythmhacks.ca/banner.png'></img>
   </a>
 </div>
 
