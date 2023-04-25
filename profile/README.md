@@ -1,6 +1,6 @@
 <div align='center'>
   <a href='https://rythmhacks.ca/'>
-    <img src='https://user-images.githubusercontent.com/105888573/210905420-296431be-7efd-4d14-a854-8ab52255775d.png'></img>
+    <img src='https://www.rythmhacks.ca/banner.png'></img>
   </a>
 </div>
 
